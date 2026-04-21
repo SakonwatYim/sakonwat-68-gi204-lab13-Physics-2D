@@ -1684,7 +1684,7 @@ Transform:
   m_GameObject: {fileID: 159082037}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.0987, y: 3.23721, z: 0}
+  m_LocalPosition: {x: 23.100199, y: 1.07571, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -10810,7 +10810,7 @@ FixedJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 17, y: 5}
+  m_ConnectedAnchor: {x: 24.0015, y: 2.8385}
   m_DampingRatio: 0
   m_Frequency: 0
 --- !u!50 &1175896248
@@ -16563,7 +16563,7 @@ ConstantForce2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1880069372}
   m_Enabled: 1
-  m_Force: {x: 10, y: 0}
+  m_Force: {x: 20, y: 0}
   m_RelativeForce: {x: 0, y: 0}
   m_Torque: 0
 --- !u!1 &1897132622
